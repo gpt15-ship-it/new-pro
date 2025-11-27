@@ -1,0 +1,22 @@
+{
+  "name": "new pro",
+  "short_name": "iica",
+  "description": "GAS で動くアンケートAI分析ツールを PWA 化したアプリです。",
+  "start_url": "https://user-name.github.io/repo-name/",
+  "scope": "https://user-name.github.io/repo-name/",
+  "display": "standalone",
+  "theme_color": "#00FFFF",
+  "background_color": "#00FFFF",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
