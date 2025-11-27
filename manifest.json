@@ -2,7 +2,7 @@
   "name": "new pro",
   "short_name": "iica",
   "description": "GAS で動くアンケートAI分析ツールを PWA 化したアプリです。",
-  "start_url": "https://user-name.github.io/repo-name/",
+  "start_url": "https://gpt15-ship-it.github.io/new-pro/",
   "scope": "https://user-name.github.io/repo-name/",
   "display": "standalone",
   "theme_color": "#00FFFF",
@@ -20,4 +20,5 @@
     }
   ]
 }
+
 
